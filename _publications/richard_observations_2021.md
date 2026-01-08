@@ -2,7 +2,7 @@
 title: "Observations of Short‐Period Ion‐Scale Current Sheet Flapping"
 collection: publications
 permalink: /publications/Richard et al. - 2021 - Observations of Short‐Period Ion‐Scale Current She.md
-date: 2021-08
+date: 2021-07-13
 venue: "Journal of Geophysical Research: Space Physics"
 paperurl: "https://doi.org/10.1029/2021JA029152"
 citation: "Richard, L., Yu. V. Khotyaintsev, D. B. Graham, M. I. Sitnov, O. Le Contel, and P.‐A. Lindqvist. 2021. Observations of Short‐Period Ion‐Scale Current Sheet Flapping. Journal of Geophysical Research: Space Physics 126 (8): e2021JA029152"
